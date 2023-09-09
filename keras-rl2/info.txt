@@ -1,0 +1,2 @@
+Modified script core.py  from keras-rl2 in path:
+/home/weiding/.local/lib/python3.6/site-packages/rl/core.py
