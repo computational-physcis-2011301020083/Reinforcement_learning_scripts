@@ -1,1 +1,14 @@
+DDPG note：
 
+action+state->critic model->critic value
+state->actor model->action
+
+steps：
+
+1.train the critic model to reach target, 
+then update target.
+this is for stable.
+
+2.train the actor model to make 
+the critic value small enough.
+this is to get the most valuable action
