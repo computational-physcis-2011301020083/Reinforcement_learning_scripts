@@ -12,3 +12,5 @@ this is for stable.
 2.train the actor model to make 
 the critic value small enough.
 this is to get the most valuable action
+
+https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html
